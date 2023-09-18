@@ -1,0 +1,19 @@
+Reconnaissance faciale
+
+1/ Cahier des charges
+
+Un appareil capable de reconnaitre des individus
+
+2/ Spécification fonctionnelle
+
+Une caméra prend en photo l’individu, l’image est envoyée grâce au réseau à un autre ordinateur, qui stocke les images et fait les comparaisons. Une fois les calculs complétés, la réponse est envoyée à la machine-caméra qui affichera le résultat.
+
+3/ Périmètre fonctionnel
+
+| Obligatoire | Confortable | Luxe |
+| --- | --- | --- |
+| Le programme doit reconnaitre le visage d’un individu |  |  |
+
+4/ Spécifications techniques
+
+5/ Découpage en lots
